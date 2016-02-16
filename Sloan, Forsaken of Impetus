@@ -1,3 +1,8 @@
 Mana cost: {C}{W}{U}{B}{G}
 Legendary Creature Enchantment - Avatar
 
+At the end of your turn, if you cast no more than one spell this turn,
+you may draw a card.
+
+At the end of each turn, if you are void in red and have cast no spells this
+turn, you may scry 1.
