@@ -11,3 +11,5 @@ the birth of the Eldrazi. The Eldrazi represent the holes in mana and the
 distortions in reality brought about.
 They are the missing pieces of the forsaken, warped and twisted.
 This is the origin of the name izardle. It's a working name, not final.
+
+Possible name for the Ur-Avatar: the Primordium.
