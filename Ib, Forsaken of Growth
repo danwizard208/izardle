@@ -1,3 +1,7 @@
 Mana cost: {C}{W}{U}{B}{R}
 Legendary Creature Enchantment - Avatar
 
+Whenever a land enters the battlefield under an opponent's control,
+if that player had another land enter the battlefield under his or her control this turn,
+that player may pay {2}.
+If that player doesn't, Ib, Forsaken of Growth does 2 damage to that player.
