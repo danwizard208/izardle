@@ -1,3 +1,11 @@
 Mana cost: {C}{W}{B}{R}{G}
 Legendary Creature Enchantment - Avatar
 
+When Raltorsh, Forsaken of Reason enters the battlefield,
+you may search your library for a basic land card and put that card onto the
+battlefield tapped.
+
+At the beginning of your upkeep, if you are void in blue, put a 1/1
+colourless spirit creature token with haste and lifelink into play.
+It has "When you draw a card, if it is not the first card you drew this turn,
+sacrifice this creature."
