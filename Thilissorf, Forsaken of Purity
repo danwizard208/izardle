@@ -1,3 +1,8 @@
 Mana cost: {C}{U}{B}{R}{G}
 Legendary Creature Enchantment - Avatar
 
+When Thilissorf, Forsaken of Purity enters the battlefield,
+place a -1/-1 counter on any number of target creatures.
+
+Whenever you cast a spell with converted mana cost 3 or greater,
+if you are void in white, proliferate.
